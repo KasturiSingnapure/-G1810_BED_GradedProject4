@@ -1,1 +1,2 @@
 # G1810_BED_GradedProject4
+This project aims to develop an Employee Management System using Spring Boot, Spring Security, and Spring Data JPA. The system provides RESTful APIs to manage employee data, including adding, retrieving, updating, and deleting employee records. The application also allows sorting employees by their first names, searching for employees by first name, and requires authentication for administrative operations.
